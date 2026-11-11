@@ -1,0 +1,18 @@
+README.md
+  s_106576e19a9dfe::t_3a7c8f3b9c8f28 32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "straion_version": "0.1.21",
+  "base_commit_sha": "7198f3e31170b568ac20844d22c7e56951d55588",
+  "prompts": {},
+  "sessions": {
+    "s_106576e19a9dfe": {
+      "agent_id": {
+        "tool": "claude-code",
+        "id": "3149c31c-9fa4-4c0a-9916-19bc9881bdc7",
+        "model": "unknown"
+      }
+    }
+  }
+}
