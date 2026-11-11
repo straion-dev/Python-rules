@@ -29,7 +29,7 @@ You need:
 3. Clone this repository, or your fork or copy of it.
 
    ```bash
-   git clone https://github.com/straion-dev/Python-rules.git
+   git clone https://github.com/straion-dev/python-rules.git
    ```
 
    ```bash
