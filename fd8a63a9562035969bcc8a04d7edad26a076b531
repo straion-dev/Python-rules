@@ -1,0 +1,24 @@
+.gitignore
+  s_106576e19a9dfe::t_f6694b9068bf67 1-25
+README.md
+  s_106576e19a9dfe::t_5498b8ce70fe38 1-2,61-77,79-81,83-105,110,124,126
+  s_106576e19a9dfe::t_151fe8dca3eb9a 3-13,17-28,30-60,78,82,106-109,111-114,117-123,125,127
+  s_106576e19a9dfe::t_152189e359bdb8 14-16
+  s_106576e19a9dfe::t_02668e015a0554 29
+  s_106576e19a9dfe::t_c20a6272f6f5f8 115-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "straion_version": "0.1.21",
+  "base_commit_sha": "fd8a63a9562035969bcc8a04d7edad26a076b531",
+  "prompts": {},
+  "sessions": {
+    "s_106576e19a9dfe": {
+      "agent_id": {
+        "tool": "claude-code",
+        "id": "3149c31c-9fa4-4c0a-9916-19bc9881bdc7",
+        "model": "unknown"
+      }
+    }
+  }
+}
